@@ -1,0 +1,63 @@
+Enter the PID of the process to attach to: [*] Dumping registers for thread ID: 0x00001a94
+[**] EIP: 0x77aa6bf4
+[**] ESP: x0000aecd0
+[**] EBP: 0x000aecec
+[**] EAX: x000000001
+[**] EBX: x000000000
+[**] ECX: x0000aea98
+[**] EDX: x077aa6bf4
+[*] END DUMP
+
+[*] Dumping registers for thread ID: 0x00000da8
+[**] EIP: 0x77aa6bf4
+[**] ESP: x001fff770
+[**] EBP: 0x01fff80c
+[**] EAX: x0744087d8
+[**] EBX: x001fff7c0
+[**] ECX: x000000300
+[**] EDX: x077aa6bf4
+[*] END DUMP
+
+[*] Dumping registers for thread ID: 0x0000134c
+[**] EIP: 0x77aa6bf4
+[**] ESP: x0036bfe98
+[**] EBP: 0x036bff04
+[**] EAX: x000e2234f
+[**] EBX: x000000000
+[**] ECX: x000000000
+[**] EDX: x000000000
+[*] END DUMP
+
+[*] Dumping registers for thread ID: 0x000022d8
+[**] EIP: 0x77aa6bf4
+[**] ESP: x00375fc90
+[**] EBP: 0x0375fd38
+[**] EAX: x000000001
+[**] EBX: x000000000
+[**] ECX: x0001a5788
+[**] EDX: x077aa6bf4
+[*] END DUMP
+
+[*] Dumping registers for thread ID: 0x00000f64
+[**] EIP: 0x77aa6bf4
+[**] ESP: x003c6fb24
+[**] EBP: 0x03c6fcb8
+[**] EAX: x000000001
+[**] EBX: x077a8fd34
+[**] ECX: x000000001
+[**] EDX: x000000001
+[*] END DUMP
+
+[*] Dumping registers for thread ID: 0x00001f4c
+[**] EIP: 0x77aa6bd8
+[**] ESP: x0021afe80
+[**] EBP: 0x00000000
+[**] EAX: x077afebb3
+[**] EBX: x000000000
+[**] ECX: x000000000
+[**] EDX: x000000000
+[*] END DUMP
+
+
+
+
